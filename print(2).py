@@ -1,5 +1,4 @@
 print(876)
-x=90
 y= 77
-
+x=89
 print(x+y)
